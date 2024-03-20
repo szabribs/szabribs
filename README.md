@@ -1,6 +1,7 @@
 ### oie (howdy) 👋
 <br/>
-<img align="center" width="150" src="https://img.ifunny.co/images/29308c6428bd879ae8296769bb1547c35261b4b6d0676d6e5b1476277f30fe50_1.webp" />
+<p>🗺️📍 de manaus-am pra região metropolitana de poa-rs 🧳🏠</p>
+<p>👩🏻‍💻🌐 estudando análise e desenvolvimento de sistemas 📚🤓 (ifrs canoas, 2024-2026)</p>
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
